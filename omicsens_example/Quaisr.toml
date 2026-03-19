@@ -1,0 +1,15 @@
+name = "omicsens_example"
+description = ""
+version = "0.1.0"
+authors = [
+    "Chris Wilson <chris.wilson@quaisr.com>",
+]
+keywords = []
+categories = []
+
+[language]
+name = "Python"
+version = "3.13"
+
+[network-access]
+public = false

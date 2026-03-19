@@ -1,0 +1,10 @@
+quaisr
+pandas
+numpy
+matplotlib
+joblib
+torch
+scipy
+lttb
+pywavelets
+scikit-learn
